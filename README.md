@@ -2,7 +2,7 @@
 
 This program determines the lowest prices for diesel, regular gasoline, and premium gasoline within a radius of 3, 10, or 20 km and displays the three cheapest providers on an AZ-Touch MOD (an ili9341-based touchscreen). You can set an audible alarm that sounds automatically when the price falls below the set threshold. 
 
-![Fuel price tracker gui](images/AZ-TOUCH-LCARS.jpg)
+![Fuel price tracker gui](/pictures/AZ-TOUCH_FUEL.jpg)
 
 ## Hardware
 The demo was written for the AZ-Touch. The [AZ-Touch MOD (for ESP32 DEV KIT C)](https://www.hwhardsoft.de/english/projects/arduitouch-esp/) or the [AZ-Touch Feather](https://www.hwhardsoft.de/english/projects/az-touch-feather/) can be used as hardware. Of course you can also simply connect an ILI9341 based touch screen with jumper wires to a microcontroller board and adapt the code accordingly. 
